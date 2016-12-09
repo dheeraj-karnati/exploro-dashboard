@@ -1,1 +1,1 @@
-# Copy/UseAgreement System
+# Indexing EADs using Apache-solr
