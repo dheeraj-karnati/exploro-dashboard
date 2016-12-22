@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="styles/styleDigitized.xsl"?>
+
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Textual%20Materials/writingsByLowell1.25.3.3.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Writings by Lowell Thomas</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="">1.25.3.3</unitid>
+			<unittitle id="pdf">Writings by Lowell Thomas</unittitle>
+			<unitdate type="inclusive"></unitdate>
+			<physdesc>
+				<extent></extent>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract"></abstract>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p></p>
+		</scopecontent>
+		<accessrestrict>
+			<p></p>
+		</accessrestrict>
+		<userestrict>
+			<p></p>
+		</userestrict>
+
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Start the new box from component no. 1 -->
+			<!-- Items within the box in component no. 2 -->
+			<!-- Box 514 -->
+			<c01>
+				<note>Box 514</note>
+				<did>
+					<unitid>1.25.3.3</unitid>
+					<unittitle id="pdf">Writings by Lowell Thomas</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<unitid>16</unitid>
+						<unittitle id="pdf">The Most Romantic Career of Modern Times (The Strand magazine)</unittitle>
+						<unitdate label="Date">1920 January</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>17</unitid>
+						<unittitle id="pdf">Thomas Lawrence the Man (Asia magazine)</unittitle>
+						<unitdate label="Date">1920 August</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>18</unitid>
+						<unittitle id="pdf">A Pilgrimage to the Tomb of Mother Eve (The Landmark, the monthly magazine of The English-Speaking Union)</unittitle>
+						<unitdate label="Date">1922 December</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>19</unitid>
+						<unittitle id="pdf">Lawrence Goes Back to Arabia</unittitle>
+						<unitdate label="Date">1928 August 26</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>20</unitid>
+						<unittitle id="pdf">Love in America Versus Love in Arabia</unittitle>
+						<unitdate label="Date">circa 1930a</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>21</unitid>
+						<unittitle id="pdf">T. E. Lawrence</unittitle>
+						<unitdate label="Date">after 1935</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>22</unitid>
+						<unittitle id="pdf">Thrilling Moments in Thrilling lives</unittitle>
+						<unitdate label="Date">1936</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>23</unitid>
+						<unittitle id="pdf">No Matter How Hard His Effort was to Avoid Publicity, He Ever Remained on the Front Line</unittitle>
+						<unitdate label="Date">1938 August 5</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>24</unitid>
+						<unittitle id="pdf">Memories of the Last Crusade</unittitle>
+						<unitdate label="Date">circa 1945</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>25</unitid>
+						<unittitle id="pdf">Lawrence of Arabia</unittitle>
+						<unitdate label="Date">circa 1962</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>26</unitid>
+						<unittitle id="pdf">I Knew the Real Lawrence of Arabia</unittitle>
+						<unitdate label="Date">1962 December 16</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>27</unitid>
+						<unittitle id="pdf">In Search of a Lost Civilization</unittitle>
+						<unitdate label="Date">1967</unitdate>
+						<container id="514" type="box">514</container>
+					</did>
+				</c02>
+
+			</c01>
+			<!-- End 514 -->
+			<!-- Box 515 -->
+			<c01>
+				<note>Box 515</note>
+				<did>
+					<unitid>1.25.3.3</unitid>
+					<unittitle id="pdf">Writings by Lowell Thomas</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<unitid>1</unitid>
+						<unittitle id="pdf">T. E. Lawrence (radio transcript)</unittitle>
+						<unitdate label="Date">1963 May</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>2</unitid>
+						<unittitle id="pdf">Why All These Attacks on Lawrence of Arabia?</unittitle>
+						<unitdate label="Date">circa 1963</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>3</unitid>
+						<unittitle id="pdf">“The Real Lawrence of Arabia” published in The Reader’s Digest</unittitle>
+						<unitdate label="Date">1964 June</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>4</unitid>
+						<unittitle id="pdf">The Men Around Lawrence</unittitle>
+						<unitdate label="Date">1965</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>5</unitid>
+						<unittitle id="pdf">The Riddle of T. E. Lawrence</unittitle>
+						<unitdate label="Date">circa 1968</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>6</unitid>
+						<unittitle id="pdf">Raider of the Rails</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>7</unitid>
+						<unittitle id="pdf">Robin Hood of the Desert (Auda Abu Tayi)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>8</unitid>
+						<unittitle id="pdf">Miscellaneous writings</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+
+			</c01>
+			<!-- End 515 -->
+
+		</dsc>
+	</archdesc>
+</ead>	

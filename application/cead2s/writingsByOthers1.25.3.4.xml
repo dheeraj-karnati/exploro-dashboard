@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="styles/styleDigitized.xsl"?>
+<ead>
+
+	<!-- Header Portion of EAD -->
+
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		<eadid countrycode="us" mainagencycode="" url="http://www.marist.edu">http://library.marist.edu/archives/LTP/Textual%20Materials/writingsByOthers1.25.3.4.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Writings by others</titleproper>
+				<author>Marist Archives and Special Collections</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Marist Archives and Special Collections</publisher>
+				<address>
+					<addressline>3399 North Road</addressline>
+					<addressline>Poughkeepsie, New York - 12601</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+
+	<!-- Archival Description portion of EAD -->
+	<archdesc level="subseries">
+		<did>
+			<unitid countrycode="us" repositorycode="">1.25.3.4</unitid>
+			<unittitle id="pdf">Writings by others</unittitle>
+			<unitdate type="inclusive"/>
+			<physdesc>
+				<extent/>
+			</physdesc>
+			<repository>
+				<corpname>Marist College</corpname>
+			</repository>
+			<abstract level="abstract"/>
+			<langmaterial>
+				<language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent>
+			<p/>
+		</scopecontent>
+		<accessrestrict>
+			<p/>
+		</accessrestrict>
+		<userestrict>
+			<p/>
+		</userestrict>
+
+		<!-- Components Description of EAD -->
+		<dsc type="combined">
+			<!-- Start the new box from component no. 1 -->
+			<!-- Items within the box in component no. 2 -->
+			<!-- Box 515 -->
+			<c01>
+				<note>Box 515</note>
+				<did>
+					<unitid>1.25.3.4</unitid>
+					<unittitle id="pdf">Writings by others</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<unitid>9</unitid>
+						<unittitle id="pdf">Wrecking Turkish Trains with Lawrence of Arabia by Anonymous (The Literary Digest)</unittitle>
+						<unitdate label="Date">1927 March 19</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>10</unitid>
+						<unittitle id="pdf">He was with Lawrence of Arabia by Gove Hambidge</unittitle>
+						<unitdate label="Date">1928 November 25</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>11</unitid>
+						<unittitle id="pdf">“I Flew Lawrence in War-Crazed Arabia” by Captain John H. Norton published in Liberty</unittitle>
+						<unitdate label="Date">1934 January 20</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>12</unitid>
+						<unittitle id="pdf">T. E. Lawrence, Aldsdington and the Truth by B. H. Liddell Hart</unittitle>
+						<unitdate label="Date">1955 April</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>13</unitid>
+						<unittitle id="pdf">Guerilla Warfare’s great Captain:  His Strategy and Tactics by Hillman Dickinson</unittitle>
+						<unitdate label="Date">circa 1960s</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>14</unitid>
+						<unittitle id="pdf">T. E. Lawrence and the Riddle of “S. A.” by Robert Graves</unittitle>
+						<unitdate label="Date">1963 June 15</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>15</unitid>
+						<unittitle id="pdf">Clouds Hill, Dorset by B. H. Liddell Hart</unittitle>
+						<unitdate label="Date">1964</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>16</unitid>
+						<unittitle id="pdf">A Reminiscence of Lawrence:  The Story of Fareedah Akle by Alan and Lydia Taylor (Viewpoints)</unittitle>
+						<unitdate label="Date">1964 November</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>17</unitid>
+						<unittitle id="pdf">Lawrence:  Thirty Years After by Theo Duncan (Viewpoints)</unittitle>
+						<unitdate label="Date">1965 May</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>18</unitid>
+						<unittitle id="pdf">Another Lawrence by H. F. King</unittitle>
+						<unitdate label="Date">1966 February 24</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>19</unitid>
+						<unittitle id="pdf">An Annotated Checklist of a Collection of Writings by and about T. E. Lawrence compiled by Frank C. Baxter</unittitle>
+						<unitdate label="Date">1968</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>20</unitid>
+						<unittitle id="pdf">Israel through Middle Eastern Eyes:  A Western Beachhead by Anthony Nutting</unittitle>
+						<unitdate label="Date">circa 1967-1970</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>21</unitid>
+						<unittitle id="pdf">Lawrence by Douglas Orgill</unittitle>
+						<unitdate label="Date">1973 May</unitdate>
+						<container id="515" type="box">515</container>
+					</did>
+				</c02>
+
+			</c01>
+			<!-- End 515 -->
+			<!-- Box 516 -->
+			<c01>
+				<note>Box 516</note>
+				<did>
+					<unitid>1.25.3.4</unitid>
+					<unittitle id="pdf">Writings by others</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<unitid>1</unitid>
+						<unittitle id="pdf">Lowell Thomas and T. E. Lawrence by Kenneth Edward Mifflin</unittitle>
+						<unitdate label="Date">1979</unitdate>
+						<container id="516" type="box">516</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>2</unitid>
+						<unittitle id="pdf">Lawrence of Arabia’s Debt to Seapower by Commander Charles L. Parnell, United States Nave</unittitle>
+						<unitdate label="Date">1979 August</unitdate>
+						<container id="516" type="box">516</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>3</unitid>
+						<unittitle id="pdf">Lawrence of Arabia by L. E. Lind</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="516" type="box">516</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>4</unitid>
+						<unittitle id="pdf">Lawrence of Arabia by Winston Churchill (excerpt from autobiography)</unittitle>
+						<unitdate label="Date">undated</unitdate>
+						<container id="516" type="box">516</container>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<unitid>5</unitid>
+						<unittitle id="pdf">Miscellaneous writings</unittitle>
+						<unitdate label="Date">1928, 1963</unitdate>
+						<container id="516" type="box">516</container>
+					</did>
+				</c02>
+
+			</c01>
+			<!-- End 516 -->
+
+		</dsc>
+	</archdesc>
+</ead>

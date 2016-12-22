@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <add>
-		<doc>
+
+	<doc>
 			<field name="link">http://library.marist.edu/archives/LTP/LTP.xml</field><field name="recordId">1.1</field>
 			<field name="collection">Lowell Thomas Papers</field>
 			<field name="category">Collection</field>
@@ -8,22 +9,17 @@
 			<field name="date">1980</field>
 			<field name="address">3399 North Road,Poughkeepsie, NY 12601</field>
 			<field name="agencycode">NPkMC</field>
-			<field name="agencyname">Marist College Archives And Special Collections</field>
+			<field name="agencyname">Marist College Archives &amp; Special Collections</field>
 			<field name="corpname">Marist College</field>
-			<field name="address">
-					3399 North Road
-					Poughkeepsie, NY 12601
-			</field>
-			<field name="origination">
-					Thomas, Lowell
-				</field>
+			<field name="address">3399 North Road Poughkeepsie, NY 12601
+			</field>	
+			<field name="origination"> Thomas, Lowell </field>
 			<field name="unittitle">Lowell Thomas Papers</field> 
 			<field name="unitid">MA-1</field>
-		<field name="accessrestrict"> 
-			Items in this collection do not circulate and may be used in-house only.
-		</field>
+		   <field name="accessrestrict"> Items in this collection do not circulate and may be used in-house only.
+		  </field>
 		<field name="userestrict"> 
-			Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold harmless the Marist College Archives And Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For more information please visit the following website: http://www.loc.gov/copyright/title17/.
+			Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold harmless the Marist College Archives &amp; Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For more information please visit the following website: http://www.loc.gov/copyright/title17/.
 		</field>
 		<field name="scopecontent"> 
 			The Lowell Thomas Papers encompasses a wide range of materials documenting the life, family, and professional career of Lowell Thomas. These materials include correspondence, administrative and financial documents, manuscripts, printed materials, photographic materials, motion picture films, audio recordings, and memorabilia.
@@ -34,10 +30,12 @@
 		<field name="persname">
 				Thomas, Lowell
 				1892-1981
+			</field><field name="subject">
+				Journalism
+				United States
 			</field>
-        <field name="subject">Journalism,United States</field>
-    
-</doc>
+
+			</doc>
 
 		<doc>
 			<field name="collection">Lowell Thomas Papers</field>
@@ -59,8 +57,9 @@
 		<field name="unitdate"/>
 		<field name="unitid">MA-1-01-01</field>
 		<field name="container">1-5</field>
-		<field name="unittitle">Correspondence, writings, and other material</field>
+		<field name='language'>English</field>
 		<field name="date">2001</field>
+
 	</doc>
 	<doc>
 		<field name="collection">Lowell Thomas Papers</field>
@@ -71,7 +70,6 @@
 		<field name="unitdate"/><field name="unitid">MA-1-01-02</field>
 		<field name="container">1</field>
 		<field name="unittitle">Alaska - Our 49th State (story line for High Adventure with Lowell Thomas television series)</field>
-		<field name="language">Spanish</field>
 	    <field name="date">2010</field>
 	</doc>
 	<doc>
@@ -85,6 +83,7 @@
 		<field name="container">1</field>
 		<field name="unittitle">Alaska Centennial</field>
 		<field name="date">1990</field>
+
 	</doc>
 	<doc>
 		<field name="collection">Lowell Thomas Papers</field>
@@ -96,5 +95,6 @@
 		<field name="fromdate">1891</field>
 		<field name="todate">1980</field>
 	</doc>
-    
+
+
 </add>

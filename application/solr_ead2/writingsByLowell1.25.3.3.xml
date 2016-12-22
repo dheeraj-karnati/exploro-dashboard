@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<add>
+<doc>
+
+		<field name="link">http://library.marist.edu/archives/LTP/Textual%20Materials/writingsByLowell1.25.3.3.xml</field>
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="category">Collection</field>
+		<field name="publisher">Marist Archives and Special Collections</field>
+		<field name="address">3399 North Road Poughkeepsie, New York - 12601</field>
+        <field name="unitid">1.25.3.3</field>
+		<field name="title">Writings by Lowell Thomas</field>
+		<field name="unitdate"/>
+        <field name="corpname"/>
+        <field name="scopecontent"></field>
+		<field name="accessrestrict"></field>
+		<field name="userestrict"></field>
+		    <field name="date"></field>
+	<field name="bioghist">The Lowell Thomas Papers encompasses a wide range of materials documenting the life, family, and professional career of Lowell Thomas. These materials include correspondence, administrative and financial documents, manuscripts, printed materials, photographic materials, motion picture films, audio recordings, and memorabilia.
+
+	</field>
+				<field name="origination"> Thomas, Lowell </field>
+
+		</doc>
+		<doc>
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="c01">Series</field>
+				<field name="category">series</field>
+	     <field name="link">http://library.marist.edu/archives/LTP/Textual%20Materials/writingsByLowell1.25.3.3.xml</field>
+
+		<field name="unitid">1.25.3.3</field>
+		<field name="title">Writings by Lowell Thomas</field>
+		<field name="fromdate"/>
+		<field name="todate"/>    
+		<field name="date"></field>
+
+		<doc>
+		<field name="c02">file</field>
+						<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">The Most Romantic Career of Modern Times (The Strand magazine)</field>
+		<field name="date">1920 January</field>
+		<field name="unitid">16</field>
+		<field name="container">514</field>
+		<field name="scopecontent">The Most Romantic Career of Modern Times (The Strand magazine)</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">Thomas Lawrence the Man (Asia magazine)</field>
+		<field name="date">1920 August</field>
+		<field name="unitid">17</field>
+		<field name="container">514</field>
+		<field name="scopecontent">Thomas Lawrence the Man (Asia magazine)</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">A Pilgrimage to the Tomb of Mother Eve (The Landmark, the monthly magazine of The English-Speaking Union)</field>
+		<field name="date">1922 December</field>
+		<field name="unitid">18</field>
+		<field name="container">514</field>
+		<field name="scopecontent">A Pilgrimage to the Tomb of Mother Eve (The Landmark, the monthly magazine of The English-Speaking Union)</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">Lawrence Goes Back to Arabia</field>
+		<field name="date">1928 August 26</field>
+		<field name="unitid">19</field>
+		<field name="container">514</field>
+		<field name="scopecontent">Lawrence Goes Back to Arabia</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>		
+		<field name="title">Love in America Versus Love in Arabia</field>
+		<field name="date">circa 1930a</field>
+		<field name="unitid">20</field>
+		<field name="container">514</field>
+		<field name="scopecontent">Love in America Versus Love in Arabia</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">T. E. Lawrence</field>
+		<field name="date">after 1935</field>
+		<field name="unitid">21</field>
+		<field name="container">514</field>
+		<field name="scopecontent">T. E. Lawrence</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">Thrilling Moments in Thrilling lives</field>
+		<field name="date">1936</field>
+		<field name="unitid">22</field>
+		<field name="container">514</field>
+		<field name="scopecontent">Thrilling Moments in Thrilling lives</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">No Matter How Hard His Effort was to Avoid Publicity, He Ever Remained on the Front Line</field>
+		<field name="date">1938 August 5</field>
+		<field name="unitid">23</field>
+		<field name="container">514</field>
+		<field name="scopecontent">No Matter How Hard His Effort was to Avoid Publicity, He Ever Remained on the Front Line</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">Memories of the Last Crusade</field>
+		<field name="date">circa 1945</field>
+		<field name="unitid">24</field>
+		<field name="container">514</field>
+		<field name="scopecontent">Memories of the Last Crusade</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">Lawrence of Arabia</field>
+		<field name="date">circa 1962</field>
+		<field name="unitid">25</field>
+		<field name="container">514</field>
+		<field name="scopecontent">Lawrence of Arabia</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">I Knew the Real Lawrence of Arabia</field>
+		<field name="date">1962 December 16</field>
+		<field name="unitid">26</field>
+		<field name="container">514</field>
+		<field name="scopecontent">I Knew the Real Lawrence of Arabia</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">In Search of a Lost Civilization</field>
+		<field name="date">1967</field>
+		<field name="unitid">27</field>
+		<field name="container">514</field>
+		<field name="scopecontent">In Search of a Lost Civilization</field>
+		</doc>
+		</doc>
+		<doc>
+		<field name="c01">Series</field>
+								<field name="category">files</field>
+	<field name="link">http://library.marist.edu/archives/LTP/Textual%20Materials/writingsByLowell1.25.3.3.xml</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="unitid">1.25.3.3</field>
+		<field name="title">Writings by Lowell Thomas</field>
+		<field name="fromdate"/>
+		<field name="todate"/>
+		<field name="date"></field>
+
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">T. E. Lawrence (radio transcript)</field>
+		<field name="date">1963 May</field>
+		<field name="unitid">1</field>
+		<field name="container">515</field>
+		<field name="scopecontent">T. E. Lawrence (radio transcript)</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">Why All These Attacks on Lawrence of Arabia?</field>
+		<field name="date">circa 1963</field>
+		<field name="unitid">2</field>
+		<field name="container">515</field>
+		<field name="scopecontent">Why All These Attacks on Lawrence of Arabia?</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">&#x201C;The Real Lawrence of Arabia&#x201D; published in The Reader&#x2019;s Digest</field>
+		<field name="date">1964 June</field>
+		<field name="unitid">3</field>
+		<field name="container">515</field>
+		<field name="scopecontent">&#x201C;The Real Lawrence of Arabia&#x201D; published in The Reader&#x2019;s Digest</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">The Men Around Lawrence</field>
+		<field name="date">1965</field>
+		<field name="unitid">4</field>
+		<field name="container">515</field>
+		<field name="scopecontent">The Men Around Lawrence</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">The Riddle of T. E. Lawrence</field>
+		<field name="date">circa 1968</field>
+		<field name="unitid">5</field>
+		<field name="container">515</field>
+		<field name="scopecontent">The Riddle of T. E. Lawrence</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+								<field name="category">files</field>
+	<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">Raider of the Rails</field>
+		<field name="date">undated</field>
+		<field name="unitid">6</field>
+		<field name="container">515</field>
+		<field name="scopecontent">Raider of the Rails</field>
+		</doc>
+		<doc>
+		<field name="c02">file</field>
+		<field name="category">files</field>
+			<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="collection">Writings by Lowell Thomas</field>
+		<field name="title">Robin Hood of the Desert (Auda Abu Tayi)</field>
+		<field name="date">undated</field>
+		<field name="unitid">7</field>
+		<field name="container">515</field>
+		<field name="scopecontent">Robin Hood of the Desert (Auda Abu Tayi)</field>
+		</doc>
+		<doc>
+		<field name="category">files</field>
+		<field name="collection">Writings by Lowell Thomas</field>
+			<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+		<field name="c02">file</field>
+		<field name="title">Miscellaneous writings</field>
+		<field name="date">undated</field>
+		<field name="unitid">8</field>
+		<field name="container">515</field>
+		<field name="scopecontent">Miscellaneous writings</field>
+		</doc>
+		</doc>
+</add>

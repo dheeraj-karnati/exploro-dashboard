@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<add><doc>
+		<field name="link">http://library.marist.edu/archives/LTP/Textual%20Materials/writingsByLowell1.25.2.6.xml</field>
+				<field name="collection">Lowell Thomas Papers</field>
+				<field name="publisher">Marist Archives and Special Collections</field>
+	   <field name="address">
+					3399 North Road
+					Poughkeepsie, New York - 12601
+	   </field>
+	   <field name="category">Collection</field>
+	   <field name="unitid">1.25.2.6</field>
+	   <field name="title">Writings by Lowell Thomas</field>
+	   <field name="unitdate"/>
+	   <field name="corpname"/>
+		<field name="scopecontent">
+		</field>
+		<field name="accessrestrict">
+		</field>
+		<field name="userestrict">
+		</field>
+		    <field name="date"></field>
+	<field name="bioghist"> 			The Lowell Thomas Papers encompasses a wide range of materials documenting the life, family, and professional career of Lowell Thomas. These materials include correspondence, administrative and financial documents, manuscripts, printed materials, photographic materials, motion picture films, audio recordings, and memorabilia.
+
+	</field>
+				<field name="origination"> Thomas, Lowell </field>
+
+</doc>
+		
+		<doc>
+			<field name="c01"> Series</field>
+				<field name="link">http://library.marist.edu/archives/LTP/Textual%20Materials/writingsByLowell1.25.2.6.xml</field>
+
+			<field name="category">series</field>
+			<field name="unitid">1.25.2.6</field>
+			<field name="title">Writings by Lowell Thomas</field>
+			<field name="collection">Writings by Lowell Thomas</field>
+			<field name="fromdate"/>
+			<field name="todate"/>
+			<field name="date"></field>
+
+		</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category">files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">The Land of the Kangaroo, Boomerang and Bushranger</field>
+				<field name="date">1920 December 1</field>
+				<field name="unitid">1</field>
+				<field name="container">505</field>
+				<field name="scopecontent">The Land of the Kangaroo, Boomerang and Bushranger</field>
+			</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category">files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">Journal notes (India)</field>
+				<field name="date">1922</field>
+				<field name="unitid">2</field>
+				<field name="container">505</field>
+				<field name="scopecontent">Journal notes (India)</field>
+			</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category">files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">A City of a Thousand and One Sins</field>
+				<field name="date">circa 1922</field>
+				<field name="unitid">3</field>
+				<field name="container">505</field>
+				<field name="scopecontent">A City of a Thousand and One Sins</field>
+			</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category">files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">Too Many Bowls of Bhang</field>
+				<field name="date">circa 1922</field>
+				<field name="unitid">4</field>
+				<field name="container">505</field>
+				<field name="scopecontent">Too Many Bowls of Bhang</field>
+			</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category">files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">Freebooters of the Afghan Border</field>
+				<field name="date">circa 1922</field>
+				<field name="unitid">5</field>
+				<field name="container">505</field>
+				<field name="scopecontent">Freebooters of the Afghan Border</field>
+			</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category"> files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">Dale Carnegie: An Appreciation [also known as Dale Carnagey]</field>
+				<field name="date">circa 1930s</field>
+				<field name="unitid">6</field>
+				<field name="container">505</field>
+				<field name="scopecontent">Dale Carnegie: An Appreciation [also known as Dale Carnagey]</field>
+			</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category"> files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">Lowell Thomas Remembers the Allenby and Lawrence Show (transcript)</field>
+				<field name="date">undated</field>
+				<field name="unitid">7</field>
+				<field name="container">505</field>
+				<field name="scopecontent">Lowell Thomas Remembers the Allenby and Lawrence Show (transcript)</field>
+			</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category">files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">Lowell Thomas Remembers Palestine (transcript)</field>
+				<field name="date">undated</field>
+				<field name="unitid">8</field>
+				<field name="container">505</field>
+				<field name="scopecontent">Lowell Thomas Remembers Palestine (transcript)</field>
+			</doc>
+			<doc>
+				<field name="c02">file</field>
+					<field name="link">http://dev.library.marist.edu/images/doc.png</field>
+
+				<field name="category">files</field>
+				<field name="collection">Writings by Lowell Thomas</field>
+				<field name="title">Lowell Thomas Remembers India (transcript)</field>
+				<field name="date">undated</field>
+				<field name="unitid">9</field>
+				<field name="container">505</field>
+				<field name="scopecontent">Lowell Thomas Remembers India (transcript)</field>
+			</doc>
+
+
+	
+
+</add>
