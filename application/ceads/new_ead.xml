@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href='schema/ead3.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
+<ead  audience="external">
+    <!-- EAD3 required element -->
+    <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <!-- EAD3 required element -->
+        <recordid instanceurl="http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/arabia2.1.1.2.1.1.xml">1.2.3</recordid><!-- EAD3 required element -->
+        <filedesc>
+            <!-- EAD3 required element -->
+            <titlestmt>
+                <!-- EAD3 required element -->
+                <titleproper>Arabia</titleproper><!-- Required element within titlestmt -->
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Marist College</publisher>
+                <date>17-Apr</date>
+                <address>
+                    <addressline>3399 North Road, Poughkeepsie, New York 12601</addressline>
+                </address>
+                <p>
+                    <ref href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref>
+                </p>
+            </publicationstmt>
+        </filedesc>
+    </control>
+    <archdesc level="collection">
+        <!-- EAD3 required element -->
+        <did>
+            <!-- EAD3 required element -->
+            <repository>
+                <corpname>
+                    <part>Marist Archives and Special Collections</part>
+                </corpname>
+                <address>
+                    <addressline>3399 North Road, Poughkeepsie, New York 12601</addressline>
+                </address>
+            </repository>
+            <origination>
+                <!-- Optional EAD3 element, added to comply with DACS requirement for 'Name of Creator(s) Element'. The new <relations> element can satisfy this and expand on it, but as <relations> is experimental, use of <origination> is recommended for now -->
+                <persname>
+                    <part>Lowell Thomas</part>
+                </persname>
+            </origination>
+            <unittitle>Arabia</unittitle><!-- Optional EAD3 element, added to comply with DACS requirement for 'Title Element' -->
+            <unitid>1.2.3</unitid><!-- Optional EAD3 element, added to comply with 'Reference Code Element' of DACS requirement -->
+            <accessrestrict>
+                <!-- Optional EAD3 element, added to comply with DACS requirement for 'Conditions Governing Access Element' -->
+                <p>Items in this collection do not circulate and may be used in-house only.</p>
+            </accessrestrict>
+            <userestrict>
+                <!-- Optional EAD3 element, added to comply with DACS requirement for 'Conditions Governing Access Element' -->
+                <p>Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold harmless the Marist College Archives &amp;amp; Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For more information please visit the following website: http://www.loc.gov/copyright/title17/.</p>
+            </userestrict>
+            <dsc>
+                <C level="collection">
+                    <did>
+                        <unittitle>
+                            Lowell Thomas Papers
+                            <ptr href="http://library.marist.edu/archives/LTP/LTP.xml"/>
+                        </unittitle>
+                    </did>
+                    <C level="series">
+                        <did>
+                            <unitid>2</unitid>
+                            <unittitle>Graphics Materials</unittitle>
+                        </did>
+                        <C level="subseries">
+                            <did>
+                                <unitid>2.1.1</unitid>
+                                <unittitle>Glass plate negatives</unittitle>
+                            </did>
+                            <C level="subseries">
+                                <did>
+                                    <unitid>2.1.2</unitid>
+                                    <unittitle>Lantern slides</unittitle>
+                                </did>
+                                <C level="subseries">
+                                    <did>
+                                        <unitid>2.1.1.2</unitid>
+                                        <unittitle>Lowell Thomas</unittitle>
+                                    </did>
+                                    <C level="subseries">
+                                        <did>
+                                            <unitid>2.1</unitid>
+                                            <unittitle>Photographs</unittitle>
+                                        </did>
+                                        <C>
+                                            <did>
+                                                <container localtype="box">1262</container>
+                                                <C>
+                                                    <did>
+                                                        <unitid>1262.1</unitid>
+                                                        <unittitle>Arabian “Hindu” bathing on deck of S.S. Ozarda</unittitle>
+                                                        <unitdate label="Date">1918</unitdate>
+                                                    </did>
+                                                    <physdesc>4x5</physdesc>
+                                                    <dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1262.1.jpg"/>
+                                                    <userestrict>
+                                                        <p>No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en</p>
+                                                    </userestrict>
+                                                </C>
+                                                <C>
+                                                    <did>
+                                                        <unitid>1262.2</unitid>
+                                                        <unittitle>Sheep on board deck of S.S. Ozarda [With Lawrence in Arabia caption: Our fellow passengers crossing the Red Sea]</unittitle>
+                                                        <unitdate label="Date">1918</unitdate>
+                                                    </did>
+                                                    <physdesc>4x5</physdesc>
+                                                    <controlaccess>
+                                                        <genreform>
+                                                            <part>film</part>
+                                                        </genreform>
+                                                    </controlaccess>
+                                                    <dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1262.2.jpg"/>
+                                                    <userestrict>
+                                                        <p>No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en</p>
+                                                    </userestrict>
+                                                </C>
+                                                <C>
+                                                    <did>
+                                                        <unitid>1262.3</unitid>
+                                                        <unittitle>Wadi Araba, caravan in distance</unittitle>
+                                                        <unitdate label="Date">1918</unitdate>
+                                                    </did>
+                                                    <physdesc>4x5</physdesc>
+                                                    <dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1262.3.jpg"/>
+                                                    <userestrict>
+                                                        <p>No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en</p>
+                                                    </userestrict>
+                                                </C>
+                                            </did>
+                                        </C>
+                                        <C>
+                                            <did>
+                                                <container localtype="box">1263</container>
+                                                <C>
+                                                    <did>
+                                                        <unitid>1263.1</unitid>
+                                                        <unittitle>Emir Feisal [With Lawrence in Arabia caption: Emir Feisal, now King of Mesopotamia (Irak)]</unittitle>
+                                                        <unitdate label="Date">1918</unitdate>
+                                                    </did>
+                                                    <physdesc>5x7</physdesc>
+                                                    <dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1263.1.jpg"/>
+                                                    <userestrict>
+                                                        <p>No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en</p>
+                                                    </userestrict>
+                                                </C>
+                                                <C>
+                                                    <did>
+                                                        <unitid>1263.2</unitid>
+                                                        <unittitle>His Royal Highness Emir Feisal</unittitle>
+                                                        <unitdate label="Date">1918</unitdate>
+                                                    </did>
+                                                    <physdesc>5x7</physdesc>
+                                                    <dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1263.2.jpg"/>
+                                                    <userestrict>
+                                                        <p>No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en</p>
+                                                    </userestrict>
+                                                </C>
+                                                <C>
+                                                    <did>
+                                                        <unitid>1263.3</unitid>
+                                                        <unittitle>T. E. Lawrence and Emir Feisal at right conferring with Bedouin sheiks [With Lawrence in Arabia caption: Feisal and Lawrence conferring with Bedouin Sheiks]</unittitle>
+                                                        <unitdate label="Date">1918</unitdate>
+                                                    </did>
+                                                    <physdesc>5x7</physdesc>
+                                                    <dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1263.3.jpg"/>
+                                                    <userestrict>
+                                                        <p>No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en</p>
+                                                    </userestrict>
+                                                </C>
+                                            </did>
+                                        </C>
+                                        <C>
+                                            <did>
+                                                <container localtype="box">1265</container>
+                                                <C>
+                                                    <did>
+                                                        <unitid>1265.1</unitid>
+                                                        <unittitle>Holy Mosque, summit of Mount Hor, Lowell Thomas in foreground, Petra</unittitle>
+                                                        <unitdate label="Date">1918</unitdate>
+                                                    </did>
+                                                    <physdesc>5x7</physdesc>
+                                                    <dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1265.1.jpg"/>
+                                                    <userestrict>
+                                                        <p>No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en</p>
+                                                    </userestrict>
+                                                </C>
+                                                <C>
+                                                    <did>
+                                                        <unitid>1265.2</unitid>
+                                                        <unittitle>Tomb discovered by accident, Petra</unittitle>
+                                                        <unitdate label="Date">1918</unitdate>
+                                                    </did>
+                                                    <physdesc>5x7</physdesc>
+                                                    <dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1265.2.jpg"/>
+                                                    <userestrict>
+                                                        <p>No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en</p>
+                                                    </userestrict>
+                                                </C>
+                                            </did>
+                                        </C>
+                                    </C>
+                                </C>
+                            </C>
+                        </C>
+                    </C>
+                </C>
+            </dsc>
+        </did>
+    </archdesc>
+</ead>

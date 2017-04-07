@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<add><doc>
+    
+    
+        
+        <field name="link">http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/arabia2.1.1.2.1.1.xml</field><field name="recordId">1.2.3</field>
+        
+            
+            
+                
+                <field name="collection">Arabia</field>
+            
+            
+                <field name="publisher">Marist College</field>
+                <field name="date">17-Apr</field>
+                <field name="address">
+                    3399 North Road, Poughkeepsie, New York 12601
+                </field>
+                
+                    
+                
+            
+        
+    
+    
+        
+        
+            
+            
+                <field name="corpname">Marist Archives and Special Collections</field>
+                <field name="address">
+                    3399 North Road, Poughkeepsie, New York 12601
+                </field>
+            
+            <field name="origination">
+                    Lowell Thomas
+                </field>
+            <field name="unittitle">Arabia</field>
+            <field name="collection">Arabia</field><field name="unitid">1.2.3</field>
+            <field name="accessrestrict">
+                
+                Items in this collection do not circulate and may be used in-house only.
+            </field>
+            <field name="userestrict">
+                
+                Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold harmless the Marist College Archives &amp;amp; Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For more information please visit the following website: http://www.loc.gov/copyright/title17/.
+            </field>
+            
+                <doc>
+                    
+                        <field name="unittitle">
+                            Lowell Thomas Papers
+                            
+                        </field>
+                    
+                    <doc>
+                        
+                            <field name="collection">Arabia</field><field name="unitid">2</field>
+                            <field name="unittitle">Graphics Materials</field>
+                        
+                        <doc>
+                            
+                                <field name="collection">Arabia</field><field name="unitid">2.1.1</field>
+                                <field name="unittitle">Glass plate negatives</field>
+                            
+                            <doc>
+                                
+                                    <field name="collection">Arabia</field><field name="unitid">2.1.2</field>
+                                    <field name="unittitle">Lantern slides</field>
+                                
+                                <doc>
+                                    
+                                        <field name="collection">Arabia</field><field name="unitid">2.1.1.2</field>
+                                        <field name="unittitle">Lowell Thomas</field>
+                                    
+                                    <doc>
+                                        
+                                            <field name="collection">Arabia</field><field name="unitid">2.1</field>
+                                            <field name="unittitle">Photographs</field>
+                                        
+                                        <doc>
+                                            
+                                                <field name="container">1262</field>
+                                                <doc>
+                                                    
+                                                        <field name="collection">Arabia</field><field name="unitid">1262.1</field>
+                                                        <field name="unittitle">Arabian &#x201C;Hindu&#x201D; bathing on deck of S.S. Ozarda</field>
+                                                        <field name="unitdate">1918</field>
+                                                    
+                                                    <field name="physdesc">4x5</field>
+                                                    <field name="link">http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1262.1.jpg</field>
+                                                    <field name="userestrict">
+                                                        No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+                                                    </field>
+                                                </doc>
+                                                <doc>
+                                                    
+                                                        <field name="collection">Arabia</field><field name="unitid">1262.2</field>
+                                                        <field name="unittitle">Sheep on board deck of S.S. Ozarda [With Lawrence in Arabia caption: Our fellow passengers crossing the Red Sea]</field>
+                                                        <field name="unitdate">1918</field>
+                                                    
+                                                    <field name="physdesc">4x5</field>
+                                                    <field name="persname"/><field name="subject"/>
+                                                    <field name="link">http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1262.2.jpg</field>
+                                                    <field name="userestrict">
+                                                        No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+                                                    </field>
+                                                </doc>
+                                                <doc>
+                                                    
+                                                        <field name="collection">Arabia</field><field name="unitid">1262.3</field>
+                                                        <field name="unittitle">Wadi Araba, caravan in distance</field>
+                                                        <field name="unitdate">1918</field>
+                                                    
+                                                    <field name="physdesc">4x5</field>
+                                                    <field name="link">http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1262.3.jpg</field>
+                                                    <field name="userestrict">
+                                                        No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+                                                    </field>
+                                                </doc>
+                                            
+                                        </doc>
+                                        <doc>
+                                            
+                                                <field name="container">1263</field>
+                                                <doc>
+                                                    
+                                                        <field name="collection">Arabia</field><field name="unitid">1263.1</field>
+                                                        <field name="unittitle">Emir Feisal [With Lawrence in Arabia caption: Emir Feisal, now King of Mesopotamia (Irak)]</field>
+                                                        <field name="unitdate">1918</field>
+                                                    
+                                                    <field name="physdesc">5x7</field>
+                                                    <field name="link">http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1263.1.jpg</field>
+                                                    <field name="userestrict">
+                                                        No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+                                                    </field>
+                                                </doc>
+                                                <doc>
+                                                    
+                                                        <field name="collection">Arabia</field><field name="unitid">1263.2</field>
+                                                        <field name="unittitle">His Royal Highness Emir Feisal</field>
+                                                        <field name="unitdate">1918</field>
+                                                    
+                                                    <field name="physdesc">5x7</field>
+                                                    <field name="link">http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1263.2.jpg</field>
+                                                    <field name="userestrict">
+                                                        No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+                                                    </field>
+                                                </doc>
+                                                <doc>
+                                                    
+                                                        <field name="collection">Arabia</field><field name="unitid">1263.3</field>
+                                                        <field name="unittitle">T. E. Lawrence and Emir Feisal at right conferring with Bedouin sheiks [With Lawrence in Arabia caption: Feisal and Lawrence conferring with Bedouin Sheiks]</field>
+                                                        <field name="unitdate">1918</field>
+                                                    
+                                                    <field name="physdesc">5x7</field>
+                                                    <field name="link">http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1263.3.jpg</field>
+                                                    <field name="userestrict">
+                                                        No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+                                                    </field>
+                                                </doc>
+                                            
+                                        </doc>
+                                        <doc>
+                                            
+                                                <field name="container">1265</field>
+                                                <doc>
+                                                    
+                                                        <field name="collection">Arabia</field><field name="unitid">1265.1</field>
+                                                        <field name="unittitle">Holy Mosque, summit of Mount Hor, Lowell Thomas in foreground, Petra</field>
+                                                        <field name="unitdate">1918</field>
+                                                    
+                                                    <field name="physdesc">5x7</field>
+                                                    <field name="link">http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1265.1.jpg</field>
+                                                    <field name="userestrict">
+                                                        No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+                                                    </field>
+                                                </doc>
+                                                <doc>
+                                                    
+                                                        <field name="collection">Arabia</field><field name="unitid">1265.2</field>
+                                                        <field name="unittitle">Tomb discovered by accident, Petra</field>
+                                                        <field name="unitdate">1918</field>
+                                                    
+                                                    <field name="physdesc">5x7</field>
+                                                    <field name="link">http://library.marist.edu/archives/LTP/digitizedContents/JPEG_1262/JPEG_1262%20B%20Scans/2.1.1.2.1.1.1265.2.jpg</field>
+                                                    <field name="userestrict">
+                                                        No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+                                                    </field>
+                                                </doc>
+                                            
+                                        </doc>
+                                    </doc>
+                                </doc>
+                            </doc>
+                        </doc>
+                    </doc>
+                </doc>
+            
+        
+    
+</doc></add>

@@ -120,7 +120,7 @@
 			</subject>
 		</controlaccess>
 		<dsc>
-			<c01 level="series">
+			<C level="series">
 				<did>
 					<unitid>MA-1-01</unitid>
 					<unittitle>Textual materials</unittitle>
@@ -134,7 +134,7 @@
 						</dateset>
 					</unitdatestructured>
 				</did>
-				<c02 level="file">
+				<C level="file">
 					<did>
 						<unittitle>Correspondence, writings, and other material</unittitle>
 						<unitid>MA-1-01-01</unitid>
@@ -149,8 +149,8 @@
 					<scopecontent>
 						<p>These files contain correspondence between Thomas family members; published and manuscript writings by Lowell Thomas, including autobiographical content, articles, speeches, and travelogues; and topically-arranged collections of journal articles, newspaper clippings, and ephemera.</p>
 					</scopecontent>
-				</c02>
-				<c02 level="file">
+				</C>
+				<C level="file">
 					<did>
 						<unittitle>American Expeditionary Forces (A.E.F.)</unittitle>
 						<unitid>MA-1-01-02</unitid>
@@ -163,8 +163,8 @@
 						<container localtype="box">495</container>
 						<dao daotype="derived" href="http://library.marist.edu/archives/LTP/digitizedContents/Box%20495/1.25.1.1.495.2.pdf"/>
 					</did>
-				</c02>
-				<c02 level="file">
+				</C>
+				<C level="file">
 					<did>
 						<unittitle>General Edmund Allenby</unittitle>
 						<unitid>MA-1-01-03</unitid>
@@ -174,9 +174,9 @@
 						<container localtype="box">495</container>
 						<dao daotype="borndigital" href="http://library.marist.edu/archives/LTP/digitizedContents/Box%20495/1.25.1.1.495.1.pdf"/>
 					</did>
-				</c02>
-			</c01>
-			<c01 level="series">
+				</C>
+			</C>
+			<C level="series">
 				<did>
 					<unitid>MA-1-02</unitid>
 					<unittitle>Graphic materials</unittitle>
@@ -201,7 +201,7 @@
 						<part>1888-1935</part>
 					</persname>
 				</controlaccess>
-			</c01>
+			</C>
 		</dsc>
 	</archdesc>
 </ead>
