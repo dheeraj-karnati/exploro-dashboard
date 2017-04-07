@@ -151,25 +151,13 @@
         <field name="subject">
             <xsl:value-of select="subject"/>
         </field>
-        <field name="type">
-            <xsl:value-of select="genreform/part/."/>
+        <field name="format">
+            <xsl:value-of select="genreform/part"/>
+        </field>
+        <field name="location">
+            <xsl:value-of select="geogname/part"/>
         </field>
     </xsl:template>
-<!--     <xsl:template priority="/../C">
-         <xsl:fallback>
-             <xsl:value-of select="."/>
-         </xsl:fallback>
-     </xsl:template>-->
-   <!--<xsl:template match="container">
-
-        <xsl:for-each select="C">
-
-            <xsl:fallback>
-                <xsl:value-of select="."/>
-            </xsl:fallback>
-
-        </xsl:for-each>
-    </xsl:template>-->
 
 </xsl:stylesheet>
 
