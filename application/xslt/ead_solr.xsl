@@ -137,10 +137,11 @@
         <xsl:for-each select="c01">
             <doc>
                 <field name="c01">
-
                     <xsl:value-of select="@level"/>
                 </field>
-
+                 <field name="collection">
+                     <xsl:value-of select="preceding::titleproper"/>
+                </field>
                 <field name="id">
                     <xsl:value-of select="did/unitid"/>
                 </field>
@@ -148,7 +149,6 @@
                     <xsl:value-of select="did/unittitle"/>
 
                 </field>
-
 
                 <field name="fromdate">
                     <xsl:value-of select="did/unitdatestructured/daterange/fromdate"/>
@@ -159,6 +159,9 @@
                 </field>
                 <xsl:for-each select="c02">
                     <doc>
+                        <field name="collection">
+                            <xsl:value-of select="preceding::titleproper"/>
+                        </field>
                         <field name="c02"> <xsl:value-of select="@level"/></field>
                         <field name="unittitle">
                             <xsl:value-of select="did/unittitle"/>

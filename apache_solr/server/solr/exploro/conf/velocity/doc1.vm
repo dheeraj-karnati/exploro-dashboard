@@ -1,0 +1,13 @@
+#**
+ *  Render a hit representing an archival material
+ *  assumed to have a field called "title"
+ *#
+
+<div class="result-title"><a href=#field('collectionLink')>#field('title')</a></div>
+<div>Collection: #field('collection')</div>
+<div>date: #field('date')</div>
+<div>Level: #field('category')</div>
+
+
+<!-- The Modal -->
+

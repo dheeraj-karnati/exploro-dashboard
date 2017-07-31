@@ -1,0 +1,24 @@
+  <dataConfig>
+    <dataSource encoding="UTF-8" type="FileDataSource" />
+    <document>
+        <entity
+            name="eaddir"
+            processor="FileListEntityProcessor"
+            rootEntity="false"
+            dataSource="null"
+            fileName="^[\w\d-]+\.xml$"
+            baseDir="${solr.install.dir}/files/solrdocs/"
+            recursive="true"
+            newerThan="${dataimporter.last_index_time}">
+        <entity 
+            name="xml"
+            processor="XPathEntityProcessor"
+            transformer="RegexTransformer,TemplateTransformer"
+            datasource="eaddir"
+            stream="true"
+            useSolrAddSchema="true"
+            url="${eaddir.fileAbsolutePath}">
+    </entity>
+      </entity>
+    </document>
+</dataConfig>

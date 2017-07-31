@@ -1,0 +1,3154 @@
+<?xml version="1.0"?>
+<add>
+    <doc>
+        <field name="link">http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/arabia2.1.1.2.1.1.xml</field>
+        <field name="recordId">2.1.1.2.1.1</field>
+        <field name="collection">Arabia</field>
+        <field name="publisher">Marist College</field>
+        <field name="date">2009 October 30</field>
+        <field name="address">3399 North Road, Poughkeepsie, New York 12601</field>
+        <field name="corpname">Marist Archives and Special Collections</field>
+        <field name="corplink">http://dbpedia.org/page/Marist_College</field>
+        <field name="origination">Lowell Thomas</field>
+        <field name="originLink">http://dbpedia.org/page/Lowell_Thomas</field>
+        <field name="unittitle">Arabia</field>
+        <field name="collection">Arabia</field>
+        <field name="unitid">2.1.1.2.1.1</field>
+        <field name="quantity">1203</field>
+        <field name="unittype">linear feet</field>
+        <field name="accessrestrict">Items in this collection do not circulate and may be used in-house only.</field>
+        <field name="userestrict">Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold harmless the Marist College Archives &amp; Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For more information please visit the following website:&#xFFFD;http://www.loc.gov/copyright/title17/.</field>
+        <field name="geogname">Arabia</field>
+        <field name="geogLink">http://dbpedia.org/page/Arabian_Peninsula</field>
+        <field name="subject"/>
+        <field name="format"/>
+        <field name="location"/>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+            <field name="id">1262.1</field>
+            <field name="unittitle">Arabian &#x201C;Hindu&#x201D; bathing on deck of S.S. Ozarda</field>
+            <field name="unitdate">1918</field>
+            <field name="physdesc">4x5</field>
+            <field name="userestrict">No Copyright - United States ;
+                http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.2</field>
+            <field name="unittitle">Sheep on board deck of S.S. Ozarda [With Lawrence in Arabia caption: Our fellow
+                passengers crossing the Red Sea]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.2.jpg</field>
+            <field name="userestrict">No Copyright - United States ;
+                http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed Photographs, Arabia </field>
+
+            <field name="id">1262.3</field>
+            <field name="unittitle">Wadi Araba, caravan in distance</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.3.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.4</field>
+            <field name="unittitle">Wadi Araba, caravan, close-up</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.4.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.5</field>
+            <field name="unittitle">Caravan in Wadi Araba, Lowell Thomas on camel in foreground with back to camera
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.5.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.6</field>
+            <field name="unittitle">Camel caravan in Wadi Araba, Lowell Thomas on camel in foreground [With Lawrence in
+                Arabia caption: A camel caravan in the Wadi Araba]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.6.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.7</field>
+            <field name="unittitle">British soldiers in automobile talking to Bedouins</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.7.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.8</field>
+            <field name="unittitle">Abdullah with camel train</field>
+            <field name="unitdate">1918</field>
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.8.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.9</field>
+            <field name="unittitle">Gueira camp, close-up</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.9.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.10</field>
+            <field name="unittitle">Arab prison camp, guard with rifle in foreground</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.10.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.11</field>
+            <field name="unittitle">Emir Feisal and T. E. Lawrence holding morning audience outdoors in front of tents,
+                distant view
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.11.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.12</field>
+            <field name="unittitle">Bedouin department store, outdoor gathering, automobile in foreground</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.12.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.13</field>
+            <field name="unittitle">Camel&#x2019;s head</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.13.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.14</field>
+            <field name="unittitle">Airplane at Akaba, two men in cockpits</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.14.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.15</field>
+            <field name="unittitle">Arab horsemen charging up shore</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.15.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.16</field>
+            <field name="unittitle">Masts of ships at Jedda</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.16.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.17</field>
+            <field name="unittitle">Jedda panorama from housetop</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.17.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.18</field>
+            <field name="unittitle">British headquarters in Jedda</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.18.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+
+            <field name="id">1262.19</field>
+            <field name="unittitle">Street scene in Jedda</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.19.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.20</field>
+            <field name="unittitle">Eve&#x2019;s Tomb, Jedda [With Lawrence in Arabia caption: The last resting-place of
+                the Mother of us all]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.20.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.21</field>
+            <field name="unittitle">Large hotel, Jedda [With Lawrence in Arabia caption: The Waldorf-Astoria of
+                Arabia-including 200 rooms with accommodations for 1000 guests with all the latest Arabian conveniences
+                excepting bath, &#x2018;phone, light, heat, or service]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.21.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.22</field>
+            <field name="unittitle">T. E. Lawrence standing, three quarter length [With Lawrence in Arabia caption: The
+                archeologist and poet who turned soldier]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.22.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.23</field>
+            <field name="unittitle">T. E. Lawrence standing, three quarter length [With Lawrence in Arabia caption: The
+                archeologist and poet who turned soldier]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.23.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.24</field>
+            <field name="unittitle">T. E. Lawrence standing on balcony in Arab robe and headdress, full figure [With
+                Lawrence in Arabia caption: The &#x201C;Uncrowned King&#x201D; of the Arabs on the Governor&#x2019;s
+                balcony in Jerusalem]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.24.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.25</field>
+            <field name="unittitle">T. E. Lawrence standing outdoors on a prayer rug [With Lawrence in Arabia caption:
+                Lawrence in front of his headquarters tent]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.25.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.26</field>
+            <field name="unittitle">T. E. Lawrence standing outdoors on a prayer rug [With Lawrence in Arabia caption:
+                Lawrence in front of his headquarters tent]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.26.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.27</field>
+            <field name="unittitle">T. E. Lawrence, D. G. Hogarth, Allan Dawnay, full figure [With Lawrence in Arabia
+                caption: Colonel Lawrence conferring with Commander D. G. Hogarth, one of his advisers at the Arab
+                Bureau in Cairo
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.27.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.28</field>
+            <field name="unittitle">T. E. Lawrence, D. G. Hogarth, full figure, Allan Dawnay cropped out of photograph
+                [With Lawrence in Arabia caption: Colonel Lawrence conferring with Commander D. G. Hogarth, one of his
+                advisers at the Arab Bureau in Cairo
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.28.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.29</field>
+            <field name="unittitle">T. E. Lawrence, D. G. Hogarth, Allan Dawnay, close-up</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.29.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+            <field name="id">1262.30</field>
+            <field name="unittitle">T. E. Lawrence in British uniform, grinning, three quarter figure [With Lawrence in
+                Arabia caption: Lawrence at headquarters in Cairo]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.30.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.31</field>
+            <field name="unittitle">T. E. Lawrence in British uniform, full figure</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.31.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.32</field>
+            <field name="unittitle">T. E. Lawrence in British uniform, full figure [copy, cropped]</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.32.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.33</field>
+            <field name="unittitle">T. E. Lawrence and his bodyguard in the desert [With Lawrence in Arabia caption:
+                &#x201C;Sidi&#x201D; Lawrence and his &#x201C;Sons&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.33.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.34</field>
+            <field name="unittitle">T. E. Lawrence and his bodyguard in the desert [With Lawrence in Arabia caption:
+                &#x201C;Sidi&#x201D; Lawrence and his &#x201C;Sons&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.34.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.35</field>
+            <field name="unittitle">T. E. Lawrence and two Syrian advisors [With Lawrence in Arabia caption: Lawrence
+                confers with Arab Nationalists leaders from Bagdad and Damascus]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.35.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.36</field>
+            <field name="unittitle">T. E. Lawrence and six of his British staff in front of tent [With Lawrence in
+                Arabia caption: T. E. Lawrence in chair surrounded by members of his British staff]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.36.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="id">1262.37</field>
+            <field name="unittitle">T. E. Lawrence and six of his British staff in front of tent [With Lawrence in
+                Arabia caption: T. E. Lawrence in chair surrounded by members of his British staff]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.37.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.38</field>
+            <field name="unittitle">T. E. Lawrence in white robe, ends of headdress back over shoulders, hands clasped,
+                sword at waist, three quarter length [With Lawrence in Arabia caption: In his white robes Lawrence
+                looked like a prophet]
+            </field>
+            <field name="unitdate">circa 1918 - 1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.38.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.39</field>
+            <field name="unittitle">T. E. Lawrence in paisley robe, squatting, full-faced, close-up [With Lawrence in
+                Arabia caption: Col. T. E. Lawrence]
+            </field>
+            <field name="unitdate">circa 1918 - 1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.39.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.40</field>
+            <field name="unittitle">T. E. Lawrence in paisley robe, squatting, full-faced, close-up [With Lawrence in
+                Arabia caption: Col. T. E. Lawrence]
+            </field>
+            <field name="unitdate">circa 1918 - 1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.40.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.41</field>
+            <field name="unittitle">T. E. Lawrence sitting on floor, toe of boot showing</field>
+            <field name="unitdate">circa 1918 - 1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.41.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.42</field>
+            <field name="unittitle">T. E. Lawrence in white robe, three quarter side view, left hand on sword [With
+                Lawrence in Arabia caption: The King-maker]
+            </field>
+            <field name="unitdate">circa 1918 - 1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.42.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.43</field>
+            <field name="unittitle">T. E. Lawrence in white robe, three quarters side view, left hand on sword [With
+                Lawrence in Arabia caption: The King-maker]
+            </field>
+            <field name="unitdate">circa 1918 - 1921</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.43.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.44</field>
+            <field name="unittitle">T. E. Lawrence in white robe, three quarters front, hands behind back, headdress
+                over shoulders, sword at waist
+            </field>
+            <field name="unitdate">circa 1918 - 1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.44.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.45</field>
+            <field name="unittitle">T. E. Lawrence in paisley robe, three quarter view, both hands on sword, full-faced
+                [With Lawrence in Arabia caption: Colonel T. E. Lawrence, the mystery man of Arabia]
+            </field>
+            <field name="unitdate">circa 1918 - 1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.45.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.46</field>
+            <field name="unittitle">T. E. Lawrence in white robe, three quarter view, full-faced, head cloth hanging
+                down [With Lawrence in Arabia caption: &#x201C;Shereef&#x201D; Lawrence]
+            </field>
+            <field name="unitdate">circa 1918-1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.46.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.47</field>
+            <field name="unittitle">T. E. Lawrence in white, three quarter side view, hands clasped over knee</field>
+            <field name="unitdate">circa 1918-1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.47.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.48</field>
+            <field name="unittitle">T. E. Lawrence in white robe with sword at waist, sitting on floor, side view, right
+                hand on chin [With Lawrence in Arabia caption: The dreamer whose dreams came true]
+            </field>
+            <field name="unitdate">circa 1918-1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.48.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.49</field>
+            <field name="unittitle">T. E. Lawrence in white, three quarter view, sitting on stool, sword at waist
+            </field>
+            <field name="unitdate">circa 1918-1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.49.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.50</field>
+            <field name="unittitle">T. E. Lawrence in paisley robe, side view, holding book, sword at waist (Graphlex)
+            </field>
+            <field name="unitdate">circa 1918-1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.50.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.51</field>
+            <field name="unittitle">T. E. Lawrence, full length, white robe, sword at waist (Graphlex)</field>
+            <field name="unitdate">circa 1918-1921</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.51.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.52</field>
+            <field name="unittitle">T. E. Lawrence, full length, white robe, sword at waist (Graphlex)</field>
+            <field name="unitdate">circa 1918-1921</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.52.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.53</field>
+            <field name="unittitle">Colonel P. C. Joyce, second in command to T. E. Lawrence [With Lawrence in Arabia
+                caption: Colonel Joyce, Commander of the Arab &#x201C;Regulars&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.53.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.54</field>
+            <field name="unittitle">Hussein Ibn Ali, King of the Hedjaz [With Lawrence in Arabia caption: King of the
+                Hejaz, &#x201C;Commander of the Faithful,&#x201D; and founder of a new Arabian dynasty]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.54.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1262.55</field>
+            <field name="unittitle">Hussein Ibn Ali, King of the Hedjaz [With Lawrence in Arabia caption: King of the
+                Hejaz, &#x201C;Commander of the Faithful,&#x201D; and founder of a new Arabian dynasty]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">3.5x 4.5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.1.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.1</field>
+            <field name="unittitle">Emir Feisal [With Lawrence in Arabia caption: Emir Feisal, now King of Mesopotamia
+                (Irak)]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.1.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.2</field>
+            <field name="unittitle">His Royal Highness Emir Feisal</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.2.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.3</field>
+            <field name="unittitle">T. E. Lawrence and Emir Feisal at right conferring with Bedouin sheiks [With
+                Lawrence in Arabia caption: Feisal and Lawrence conferring with Bedouin Sheiks]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.3.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.4</field>
+            <field name="unittitle">T. E. Lawrence and Emir Feisal conferring with Bedouin sheiks</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.4.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.5</field>
+            <field name="unittitle">Auda Abu Tayi, center, and two brothers [With Lawrence in Arabia caption: Sheik Auda
+                Abu Tayi, the Bedouin Robin Hood]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.5.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.6</field>
+            <field name="unittitle">Emir Feisal on horse</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.6.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.7</field>
+            <field name="unittitle">Mounted Bedouins [With Lawrence in Arabia caption: Bedouin &#x201C;Irregulars&#x201D;
+                ready for a raid on the Turks]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.7.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.8</field>
+            <field name="unittitle">Scottish soldiers talking to Arabs, Akaba</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.8.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.9</field>
+            <field name="unittitle">Arab and Egyptian guards sitting in front of hut at an oasis</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.9.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.10</field>
+            <field name="unittitle">Bedouin with curls [With Lawrence in Arabia caption: A brigand from Jebel Druz]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.10.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.11</field>
+            <field name="unittitle">Arab man [With Lawrence in Arabia caption: A Sheik of Araby]</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.11.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.12</field>
+            <field name="unittitle">Bedouin sheik on horse [With Lawrence in Arabia caption: Tallal El-Hareidhin of
+                Tafas]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.12.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.13</field>
+            <field name="unittitle">Bedouin with curls holding rifle [With Lawrence in Arabia caption: An Arab Apollo]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.13.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.14</field>
+            <field name="unittitle">Druses from Hauran [With Lawrence in Arabia caption: Druses from the Hauran]</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.14.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.15</field>
+            <field name="unittitle">Crowd of Bedouins squatting and standing, Solomon&#x2019;s Mountains in background
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.15.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.16</field>
+            <field name="unittitle">Bedouin barber shop at an oasis</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.16.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.17</field>
+            <field name="unittitle">Scottish soldiers and Arabs at Akaba</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.17.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.18</field>
+            <field name="unittitle">Head of Gulf of Akaba from shore, two ships in distance</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.18.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.19</field>
+            <field name="unittitle">British cruiser off Arabian coast, man in foreground</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.19.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.20</field>
+            <field name="unittitle">Akaba waterfront [With Lawrence in Arabia caption: Shore-line at the head of the
+                Gulf of Akaba]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.20.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.21</field>
+            <field name="unittitle">Akaba waterfront [With Lawrence in Arabia caption: Shore-line at the head of the
+                Gulf of Akaba]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.21.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.22</field>
+            <field name="unittitle">Akaba, looking down from housetop, ship in distance</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.22.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.23</field>
+            <field name="unittitle">Women carrying fuel on shore of Akaba</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.23.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.24</field>
+            <field name="unittitle">Squatting Bedouins, close-up, with camels at Akaba</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.24.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.25</field>
+            <field name="unittitle">Mazuk, vain Bedouin on Emir Feisal&#x2019;s staff</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.25.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.26</field>
+            <field name="unittitle">Distant view of camp beneath cliff at Gueira, men standing in left foreground
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x5.75</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.26.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.27</field>
+            <field name="unittitle">Arab store, horse eating in foreground, Lowell Thomas at right</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.27.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.28</field>
+            <field name="unittitle">Abyssinian followers of Emir Feisal</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.28.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.29</field>
+            <field name="unittitle">Malud Bey and Arab cavalry leaders</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.29.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.30</field>
+            <field name="unittitle">Bedouin snipers</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.30.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.31</field>
+            <field name="unittitle">Arab cavalry under Malud Bey [With Lawrence in Arabia caption: Malud Bey and his
+                Arab cavalry]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.31.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.32</field>
+            <field name="unittitle">Dinner party, left to right: Nuri Pasha, Auda Abu Tayi, Emir Feisal, Lowell Thomas
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.32.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.33</field>
+            <field name="unittitle">Bedouin camp among old Turkish trenches</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.33.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.34</field>
+            <field name="unittitle">Emir Feisal and Lowell Thomas using field glasses to watch a battle at Maan</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.34.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.35</field>
+            <field name="unittitle">Arab regular army drawn up at foot of hill</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.35.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.36</field>
+            <field name="unittitle">Three armored cars in silhouette at sunset [With Lawrence in Arabia caption: Armored
+                cars in holy Arabia]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.36.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.37</field>
+            <field name="unittitle">Armored cars and motor trucks in front of tents at Gueira</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.37.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.38</field>
+            <field name="unittitle">Arab battery in action, sunset, fighting near Damascus [With Lawrence in Arabia
+                caption: Lawrence&#x2019;s mountain guns in action]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.38.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.39</field>
+            <field name="unittitle">Arab battery, not firing</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.39.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.40</field>
+            <field name="unittitle">Harry Chase taking motion pictures from armored car [With Lawrence in Arabia
+                caption: Mr. Chase opening fire with his cinema camera from the turret of an armored car]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.40.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.41</field>
+            <field name="unittitle">Bedouin cavalry and British armored cars in desert, Lowell Thomas seated at center
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.41.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="id">1263.42</field>
+            <field name="unittitle">General Nuri Pasha with staff and flag</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.42.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.43</field>
+            <field name="unittitle">Lone Bedouin sentinel above Negib [Negev?]</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.43.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1263.44</field>
+            <field name="unittitle">Automobile in wildest Arabia, [Lowell Thomas? with back to camera seated on hood of
+                the auto]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1263/1263.44.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.1</field>
+            <field name="unittitle">General Nuri Pasha and staff greeting Lowell Thomas [Lowell Thomas fourth from
+                left]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.1.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.2</field>
+            <field name="unittitle">Squadron of armored cars in front of cliff</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.2.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.3</field>
+            <field name="unittitle">Five Bedouin horsemen</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.3.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.4</field>
+            <field name="unittitle">Mountains of Edom near Petra, Lowell Thomas&#x2019;s caravan in foreground [With
+                Lawrence in Arabia caption: Our caravan approaching the &#x201C;Lost City&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.4.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.5</field>
+            <field name="unittitle">Mountains of Edom, sunset, Bedouin in foreground</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.5.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.6</field>
+            <field name="unittitle">Mountains of Edom, sunset [With Lawrence in Arabia caption: Sunset over the mountain
+                of Edom]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.6.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.7</field>
+            <field name="unittitle">Mountains of Edom, sunset, near view</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.7.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.8</field>
+            <field name="unittitle">Valley twelve miles wide running toward Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.8.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.9</field>
+            <field name="unittitle">Arab officer on horse at Fountain of Moses</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.9.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.10</field>
+            <field name="unittitle">Lowell Thomas having tea at Wadi Musa</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.10.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.11</field>
+            <field name="unittitle">A Bedouin sheik</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.11.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.12</field>
+            <field name="unittitle">Old Bedouin with pipe</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.12.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.13</field>
+            <field name="unittitle">Wadi Musa Bedouins</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.13.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.14</field>
+            <field name="unittitle">Roman soldiers&#x2019; tomb [Lowell Thomas? with back to camera seated on rock]
+                [With Lawrence in Arabia caption: &#x201C;The tomb of the Roman soldiers&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.14.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.15</field>
+            <field name="unittitle">Temple of Urn, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.15.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.16</field>
+            <field name="unittitle">Temple of Isis (The Deir) from gorge, Arab in foreground, Petra [With Lawrence in
+                Arabia caption: A rose-red temple carved like a cameo from the face of the mountain
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.16.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.17</field>
+            <field name="unittitle">Temple of Isis (The Deir) from gorge, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.17.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.18</field>
+            <field name="unittitle">Temple of Isis (The Deir), Lowell Thomas and others at foot of columns, Petra
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.18.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.19</field>
+            <field name="unittitle">Temple of Isis (The Deir), looking out through columns from one side, soldiers in
+                foreground, Petra
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.19.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.20</field>
+            <field name="unittitle">Temple of Isis (The Deir), close-up of three columns, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.20.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.21</field>
+            <field name="unittitle">In gorge approaching Petra, man sitting in foreground</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.21.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.22</field>
+            <field name="unittitle">Temple of Isis (The Deir), camels among columns, Petra [Lowell Thomas? seated on
+                camel at left]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.22.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.23</field>
+            <field name="unittitle">Lowell Thomas on camel under column at the Temple of Isis (The Deir), Petra [With
+                Lawrence in Arabia caption: We rode into the Auditorium on our camels]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.23.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.24</field>
+            <field name="unittitle">Temple of Isis (The Deir), bushes in foreground, Petra [With Lawrence in Arabia
+                caption: &#x201C;Pharaoh&#x2019;s Temple&#x201D; or the &#x201C;Temple of Isis&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.24.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.25</field>
+            <field name="unittitle">Lowell Thomas drinking in a gorge near Petra [With Lawrence in Arabia caption: The
+                narrow defile that leads to the &#x201C;Lost City&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.25.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.26</field>
+            <field name="unittitle">Man on camel in gorge near Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.26.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.27</field>
+            <field name="unittitle">Harry Chase in front of tent, Petra [With Lawrence in Arabia caption: Chase reads
+                the Koran while Mohammed in the background takes aim at a circling hawk]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.27.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.28</field>
+            <field name="unittitle">Harry Chase in front of tent, Petra [With Lawrence in Arabia caption: Chase reads
+                the Koran while Mohammed in the background takes aim at a circling hawk]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.28.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.29</field>
+            <field name="unittitle">Lowell Thomas taking notes in front of tent, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.29.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.30</field>
+            <field name="unittitle">Unfinished temples, Petra, man in foreground</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.30.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.31</field>
+            <field name="unittitle">Amphitheatre [With Lawrence in Arabia caption: An amphitheatre hewn out of the
+                mountain]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.31.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.32</field>
+            <field name="unittitle">Small hill covered with temples, man in foreground</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.32.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.33</field>
+            <field name="unittitle">Side view, amphitheatre and valley, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.33.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.34</field>
+            <field name="unittitle">Face in cliff, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.34.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.35</field>
+            <field name="unittitle">Temple at end of bridge, distant, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.35.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.36</field>
+            <field name="unittitle">Temple at end of bridge, close-up, Temple of Urn, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.36.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.37</field>
+            <field name="unittitle">Governor&#x2019;s tomb, soldier in foreground, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.37.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.38</field>
+            <field name="unittitle">Three men lying among flowers [Lowell Thomas on right], Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.38.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.39</field>
+            <field name="unittitle">Phallic monolith, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.39.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.40</field>
+            <field name="unittitle">Lowell Thomas watches as Arabs play tag around phallic monolith, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.40.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.41</field>
+            <field name="unittitle">Mount Hor, three men in foreground, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.41.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.42</field>
+            <field name="unittitle">&#x201C;Acropolis hills&#x201D; Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.42.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.43</field>
+            <field name="unittitle">Arabs standing in front of tombs near camp, Petra, Lowell Thomas seated on left
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.43.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1264.44</field>
+            <field name="unittitle">Three-storied temple [With Lawrence in Arabia caption: The &#x201C;Three-storied
+                temple&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1264/1264.44.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.1</field>
+            <field name="unittitle">Holy Mosque, summit of Mount Hor, Lowell Thomas in foreground, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.1.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.2</field>
+            <field name="unittitle">Tomb discovered by accident, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.2.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.3</field>
+            <field name="unittitle">Rock waves [With Lawrence in Arabia caption: The rock seemed to swirl like watered
+                silk]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.3.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.4</field>
+            <field name="unittitle">Structure of rock, Petra</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.4.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.5</field>
+            <field name="unittitle">Bedouin women and children</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.5.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.6</field>
+            <field name="unittitle">Bedouin family living in Petra Palace</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.6.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.7</field>
+            <field name="unittitle">Goat&#x2019;s hair curtain in a modern Bedouin Petra Palace home</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.7.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.8</field>
+            <field name="unittitle">Two Arab men with pistols [With Lawrence in Arabia caption: &#x201C;Drinkers of the
+                milk of war&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.8.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.9</field>
+            <field name="unittitle">Two Arab men with pistols [With Lawrence in Arabia caption: &#x201C;Drinkers of the
+                milk of war&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.9.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.10</field>
+            <field name="unittitle">The Kaaba, Mecca, crowd, fort in distance [With Lawrence in Arabia caption: The
+                mosque of the holy Kaaba]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.10.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.11</field>
+            <field name="unittitle">The Kaaba, Mecca, crowd, fort in distance (copy)</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.11.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.12</field>
+            <field name="unittitle">The Kaaba, Mecca, close-up (copy from book)</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.12.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.13</field>
+            <field name="unittitle">The Haram, Sacred Mosque, Mecca (copy from book)</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.13.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.14</field>
+            <field name="unittitle">Mecca, panorama of city (copy from book)</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.14.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.15</field>
+            <field name="unittitle">Medina (copy from book)</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.15.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.16</field>
+            <field name="unittitle">Medina (copy from book)</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.16.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.17</field>
+            <field name="unittitle">Medina, part of Mosque of Prophet (copy from book)</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.17.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.18</field>
+            <field name="unittitle">Mudarwa explosion</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.18.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.19</field>
+            <field name="unittitle">Small dynamited bridge [image quality very poor]</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.19.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="id">1265.20</field>
+            <field name="unittitle">Dynamited steel bridge, Hedjaz Railway [With Lawrence in Arabia caption: One of the
+                many bridges blown up by Lawrence&#x2019;s &#x201C;tulips.&#x201D;]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.20.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.21</field>
+            <field name="unittitle">Three Arab men, full length, front view</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.21.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.22</field>
+            <field name="unittitle">Arab crossing railway tracks</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.22.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.23</field>
+            <field name="unittitle">Arab man on railway platform, full view</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.23.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.24</field>
+            <field name="unittitle">Lieutenant McCall McCowen dressed as Arab</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.24.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.25</field>
+            <field name="unittitle">General Edmund Allenby and Emir Feisal [With Lawrence in Arabia caption:
+                Field-Marshall Viscount Allenby of Jerusalem and King Feisal of Bagdad]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.25.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.26</field>
+            <field name="unittitle">Emir Feisal, T. E. Lawrence and group at Paris [With Lawrence in Arabia caption:
+                Emir Feisal, center, with General Nuri to the left and Colonel Lawrence to the right; Captain Pisani of
+                the French mission standing directly behind the Emir
+            </field>
+            <field name="unitdate">1919</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.26.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+            <field name="id">1265.27</field>
+            <field name="unittitle">Sunset, Red Sea, silhouette of caravan</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.27.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.28</field>
+            <field name="unittitle">Two leaning palms, sea at sunset [With Lawrence in Arabia caption: Sunset in the
+                land of the Arabian knights]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.28.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.29</field>
+            <field name="unittitle">Panorama of Akaba [With Lawrence in Arabia caption: Panorama of Akaba]</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.29.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.30</field>
+            <field name="unittitle">Panorama of a Bedouin encampment at Akaba [With Lawrence in Arabia caption: A
+                Bedouin encampment]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.30.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.31</field>
+            <field name="unittitle">Palm trees, man carrying two buckets [With Lawrence in Arabia caption: Where the
+                hosts of Israel are said to have terminated the passage of the Red Sea]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.31.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.32</field>
+            <field name="unittitle">Palm trees, sea, sunset, silhouette of man [With Lawrence in Arabia caption:
+                Date-palms along the coral shore of Araby]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.32.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.33</field>
+            <field name="unittitle">Emir Ali</field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.33.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.34</field>
+            <field name="unittitle">General Jafaar Pasha from Baghdad [With Lawrence in Arabia caption: General Jafaar
+                Pasha from Bagdad]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.34.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.35</field>
+            <field name="unittitle">General Jafaar Pasha from Baghdad [With Lawrence in Arabia caption: General Jafaar
+                Pasha from Bagdad]
+            </field>
+            <field name="unitdate">1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.35.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.36</field>
+            <field name="unittitle">Colonel S. F. Newcombe</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">2.5x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.36.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.37</field>
+            <field name="unittitle">Street scene, men with camels, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.37.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.38</field>
+            <field name="unittitle">Street scene, man with camel, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.38.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.39</field>
+            <field name="unittitle">Street scene, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.39.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.40</field>
+            <field name="unittitle">Street scene, man with camel, little children, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.40.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.41</field>
+            <field name="unittitle">Street scene, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.41.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.42</field>
+            <field name="unittitle">Mosque, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.42.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.43</field>
+            <field name="unittitle">Men standing outside mosque, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.43.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.44</field>
+            <field name="unittitle">Girl wearing veils over head and face, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.44.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.45</field>
+            <field name="unittitle">Man writing in book, woman standing beside him, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">3.5x4.75</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.45.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.46</field>
+            <field name="unittitle">Two men standing next to fence, talking, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">3.5x4.75</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.46.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.47</field>
+            <field name="unittitle">Group of men in Arab dress, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.47.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.48</field>
+            <field name="unittitle">Group of men, man on horse in foreground, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.48.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.49</field>
+            <field name="unittitle">Two automobiles on road through mountains, people standing outside first automobile,
+                Arabia[?]
+            </field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.49.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.50</field>
+            <field name="unittitle">People in Arab headdresses nearby a truck, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.50.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.51</field>
+            <field name="unittitle">Man smoking pipe, cacti, building in distance, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">5x7</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.51.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.52</field>
+            <field name="unittitle">Soldiers on horses in front of fort, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">4x5</field>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.52.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+        <doc>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
+                Photographs, Arabia
+            </field>
+
+            <field name="id">1265.53</field>
+            <field name="unittitle">Street scene, people with bundles on heads, Arabia[?]</field>
+            <field name="unitdate">circa 1918</field>
+
+            <field name="physdesc">3.5x4.75</field>
+            <field name="persname"/>
+            <field name="subject"/>
+            <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1265/1265.53.jpg</field>
+            <field name="userestrict">
+                No Copyright - United States ; http://rightsstatements.org/page/NoC-US/1.0/?language=en
+            </field>
+        </doc>
+
+
+    </doc>
+
+
+</add>

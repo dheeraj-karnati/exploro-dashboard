@@ -1,0 +1,36 @@
+#**
+ *  Render a hit representing an archival material
+ *  assumed to have a field called "title"
+ *#
+
+<div style="border:30px;" class="result-title">
+<a id='link' title='#field('title')' collection='#field('collection')' container='#field('container')' level='#field('category')' href=#field('link')>#field('title') <img align="left" height=115 width=115 border:10px  SRC=#field('link')/>
+</a>
+</div>
+<div>Title :#field('title')</div>
+<div>Box: #field('container')</div>
+<div>Level: #field('category')</div>
+<div>Collection: <a href=#field('collectionLink')>#field('collection')</a></div>
+<div>date: #field('date')</div>
+
+<div id="myModal"  class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+             <button type="button" id='close' class="close" data-dismiss="modal" aria-hidden="true">X</button>
+      <h2>Modal Header</h2>
+    </div>
+    <div align= 'center' class="modal-body">
+    	<div id="image" style="border: 3px solid white; text-align:center;"></div></br>
+    	<div style="width:300;height:170px;">
+    	<div align='left' id="info"></div>
+        </div>
+    </div>
+    <div class="modal-footer">
+      <h3>Modal Footer</h3>
+    </div>
+  </div>
+</div>
+</div>
+

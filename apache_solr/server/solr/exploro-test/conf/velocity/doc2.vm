@@ -1,0 +1,42 @@
+#**
+ *  Render a hit representing an archival material
+ *  assumed to have a field called "title"
+ *#
+
+<div style="border:30px;" class="result-title">
+<a id='link' title='#field('unititle')' collection='#field('collection')' container='#field('container')' level='#field('category')'  href=#field('link')> <img align="left" height=170 width=170 margin:10px  SRC=#field('link')/>
+</a>
+</div>
+<div>Title :<a href=#field('link')>#field('unittitle')</a></div>
+<!--div>Box: #field('container')</div-->
+<div>ID: #field('unitid')</div>
+<div>Level: #field('category')</div>
+<div>Collection: #field('collection')</div>
+<div>Series: #field('series')</div>
+
+<!--div>Series:<a href=#field('collectionLink')> #field('series')</a></div-->
+<div>date: #field('unitdate')</div>
+<div>subject: #field('subject')</div>
+
+
+<div id="myModal"  class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+             <button type="button" id='close' class="close" data-dismiss="modal" aria-hidden="true">X</button>
+      <h2>Modal Header</h2>
+    </div>
+    <div align= 'center' class="modal-body">
+    	<div id="image" style="border: 3px solid white; text-align:center;"></div></br>
+    	<div style="width:300;height:180px;">
+    	<div align='left' id="info"></div>
+        </div>
+    </div>
+    <div class="modal-footer">
+      <h3>Modal Footer</h3>
+    </div>
+  </div>
+</div>
+</div>
+
