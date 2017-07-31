@@ -1,37 +1,28 @@
 <?xml version="1.0"?>
 <add>
     <doc>
-        <field name="link">
-            http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/arabia2.1.1.2.1.1.xml
-        </field>
+        <field name="link">http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/arabia2.1.1.2.1.1.xml</field>
         <field name="recordId">2.1.1.2.1.1</field>
-        <field name="collection"/>
+        <field name="collection">Arabia</field>
         <field name="publisher">Marist College</field>
-        <field name="date">10/30/2009</field>
-        <field name="address">
-            3399 North Road, Poughkeepsie, New York 12601
-        </field>
+        <field name="date">2009 October 30</field>
+        <field name="address">3399 North Road, Poughkeepsie, New York 12601</field>
         <field name="corpname">Marist Archives and Special Collections</field>
-        <field name="address">
-            3399 North Road, Poughkeepsie, New York 12601
-        </field>
-        <field name="origination">
-            Lowell Thomas
-        </field>
-        <field name="unittitle"/>
-        <field name="id">2.1.1.2.1.1</field>
-        <field name="accessrestrict">
-
-            Items in this collection do not circulate and may be used in-house only.
-        </field>
-        <field name="userestrict">
-            Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent
-            provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold
-            harmless the Marist College Archives &amp;amp; Special Collections and its staff in connection with any
-            disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For
-            more information please visit the following website: http://www.loc.gov/copyright/title17/.
-        </field>
-
+        <field name="corplink">http://dbpedia.org/page/Marist_College</field>
+        <field name="origination">Lowell Thomas</field>
+        <field name="originLink">http://dbpedia.org/page/Lowell_Thomas</field>
+        <field name="unittitle">Arabia</field>
+        <field name="collection">Arabia</field>
+        <field name="unitid">2.1.1.2.1.1</field>
+        <field name="quantity">1203</field>
+        <field name="unittype">linear feet</field>
+        <field name="accessrestrict">Items in this collection do not circulate and may be used in-house only.</field>
+        <field name="userestrict">Individuals requesting reproductions expressly assume the responsibility for compliance with all pertinent provisions of the Copyright Act, 17 U.S.C. ss101 et seq. Patrons further agree to indemnify and hold harmless the Marist College Archives &amp; Special Collections and its staff in connection with any disputes arising from the Copyright Act, over the reproduction of material at the request of patrons. For more information please visit the following website:&#xFFFD;http://www.loc.gov/copyright/title17/.</field>
+        <field name="geogname">Arabia</field>
+        <field name="geogLink">http://dbpedia.org/page/Arabian_Peninsula</field>
+        <field name="subject"/>
+        <field name="format"/>
+        <field name="location"/>
         <doc>
             <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
                 Photographs, Arabia
@@ -64,9 +55,7 @@
             </field>
         </doc>
         <doc>
-            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
-                Photographs, Arabia
-            </field>
+            <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed Photographs, Arabia </field>
 
             <field name="id">1262.3</field>
             <field name="unittitle">Wadi Araba, caravan in distance</field>
@@ -149,7 +138,6 @@
             <field name="id">1262.8</field>
             <field name="unittitle">Abdullah with camel train</field>
             <field name="unitdate">1918</field>
-
             <field name="physdesc">4x5</field>
             <field name="link">http://148.100.181.189:8090/digitizedContents/LTP/1262/1262.8.jpg</field>
             <field name="userestrict">
@@ -506,7 +494,6 @@
             <field name="series">Graphic Material, Photographs,Glass plate negatives, Lowell Thomas, Indexed
                 Photographs, Arabia
             </field>
-
             <field name="id">1262.30</field>
             <field name="unittitle">T. E. Lawrence in British uniform, grinning, three quarter figure [With Lawrence in
                 Arabia caption: Lawrence at headquarters in Cairo]
