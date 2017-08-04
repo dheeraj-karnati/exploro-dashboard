@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<add><doc><field name="collectionLink">http://localhost:9090/exploro/ead_uploads/LTP/2.1.1.2.1.1.xml</field><field name="collection">Arabia</field><field name="publisher">Marist College</field><field name="publisheddate">2009 October 30</field><field name="publisheraddress">3399 North Road, Poughkeepsie, New York 12601</field><field name="corpname">
+					Marist Archives and Special Collections
+				</field><field name="corplink">http://dbpedia.org/page/Marist_College</field><field name="originLink">http://dbpedia.org/page/Lowell_Thomas</field><field name="origination">Lowell Thomas</field><field name="fromdate">1789</field><field name="todate">1984</field><field name="physdescstructured">1203(linear feet)
+                    </field><field name="unitid">2.1.1.2.1.1</field><field name="accessrestrict">
+			
+			Items in this collection do not circulate and may be used in-house only.
+		</field><field name="geogname">Arabia</field><field name="geogLink">http://dbpedia.org/page/Arabian_Peninsula</field></doc></add>
